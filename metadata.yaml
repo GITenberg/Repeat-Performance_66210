@@ -1,5 +1,8 @@
 _repo: Repeat-Performance_66210
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66210-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, Rog
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34753
     wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66210#Repeat-Performance
 gutenberg_issued: '2021-09-03'
 identifiers:
   gutenberg: '66210'
